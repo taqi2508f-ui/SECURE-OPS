@@ -1,3 +1,12 @@
+LINK:Its also uploaded as Application
+
+LINK:https://secure-ops-dmfhst7cbermrgxphufcbw.streamlit.app/
+
+Check it out it ui also works without downlaoding
+& kindly rate my project on gmail & for contact: 
+Gmail:taqi2508f@aptechgdn.net
+Phone number / Whatsapp:+92 332 2094019
+
 # SecureOps Lab — Software Description
 
 ## What is SecureOps Lab?
